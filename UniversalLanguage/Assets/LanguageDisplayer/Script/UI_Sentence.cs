@@ -27,7 +27,7 @@ public class UI_Sentence : MonoBehaviour {
 
     public void SetWithSentence(Sentence value)
     {
-        if (value.m_language == LanguageType.Arab)
+        if (value.m_language == LanguageType.Arabic)
         {
             m_arabicText.enabled = true;
             m_arabicText.Text = value.m_text;
@@ -40,6 +40,8 @@ public class UI_Sentence : MonoBehaviour {
         m_soundToPlay.interactable = !string.IsNullOrEmpty(value.m_media.m_audioName) ;
         m_linkedImage.interactable = !string.IsNullOrEmpty(value.m_media.m_pictureName);
         m_value = value;
+        if (value.m_media.m_focusOnCall)
+            NotifyImageRequest();
 
 
     }

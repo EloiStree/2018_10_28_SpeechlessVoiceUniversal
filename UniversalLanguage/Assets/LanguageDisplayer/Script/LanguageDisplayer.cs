@@ -145,6 +145,7 @@ public struct Sentence {
 [System.Serializable]
 public struct MediaData {
     public string m_audioName;
+    public bool m_focusOnCall;
     public string m_pictureName;
 
     public static MediaData Override(MediaData original, MediaData newVersion)
@@ -177,6 +178,22 @@ public enum LanguageType {
     Unkown,
     English,
     French,
-    Arab
+    Arabic,
+    Spanish,
+    Portuguese,
+    Russian,
+    Japanese,
+    Punjabi,
+    German,
+    Javanese,
+    Bengali,
+    Hindi,
+    Wu,
+    Malay,
+    Telugu,
+    Vietnamese,
+    Korean,
+    Marathi
+
 
 }
