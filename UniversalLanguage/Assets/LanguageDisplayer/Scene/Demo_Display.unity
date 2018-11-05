@@ -168,7 +168,7 @@ Prefab:
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -143.55
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
@@ -178,7 +178,7 @@ Prefab:
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 95.700005
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
@@ -1156,7 +1156,7 @@ Prefab:
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -239.25002
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
@@ -1166,7 +1166,7 @@ Prefab:
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 95.700005
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
@@ -3823,7 +3823,7 @@ Prefab:
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -47.850002
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
@@ -3833,7 +3833,7 @@ Prefab:
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 95.700005
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224119157059651280, guid: f7f06263562218042a83d7ac6327e43b,
         type: 2}
